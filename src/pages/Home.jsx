@@ -11,9 +11,9 @@ function Home() {
         <h2>Hi, my name is Alja</h2>
         <div className="prompt">
           <p>A frontend developer with experience in healthcare.</p>
-          <LinkedInIcon />
-          <GitHubIcon />
-          <EmailIcon />
+          <a href="https://www.linkedin.com/in/alja-cekada/" target="_blank"><LinkedInIcon /></a>
+          <a href="https://github.com/alchuu00" target="_blank"><GitHubIcon /></a>
+          <a href="mailto:alja.cekada@gmail.com" target="_blank"><EmailIcon /></a>
         </div>
       </div>
       <div className="skills">

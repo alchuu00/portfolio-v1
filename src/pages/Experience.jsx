@@ -8,16 +8,14 @@ import SchoolIcon from "@mui/icons-material/School";
 import SubscriptionsIcon from '@mui/icons-material/Subscriptions';
 import WorkspacePremiumIcon from '@mui/icons-material/WorkspacePremium';
 
-import "../styles/Experience.css";
-
 function Experience() {
   return (
     <div className="experience">
-      <VerticalTimeline lineColor="#3e497a">
+      <VerticalTimeline lineColor="#272727">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="Aug. 2022"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#272727", color: "#fff" }}
           icon={<SubscriptionsIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -28,7 +26,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="Oct. 2022"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#272727", color: "#fff" }}
           icon={<WorkspacePremiumIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -39,7 +37,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="Nov. - Dec. 2022"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#272727", color: "#fff" }}
           icon={<WorkspacePremiumIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -50,7 +48,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="Sep. - Dec. 2022"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#272727", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
@@ -61,7 +59,7 @@ function Experience() {
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           date="Jan. 2023 - present"
-          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          iconStyle={{ background: "#272727", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">

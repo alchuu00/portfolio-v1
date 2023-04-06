@@ -9,10 +9,10 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'>
-            <InstagramIcon/>
-            <FacebookIcon/>
-            <GitHubIcon/>
-            <LinkedInIcon/>
+            <a href="https://www.instagram.com/aljacekada/" target="_blank"><InstagramIcon/></a>
+            <a href="https://www.facebook.com/alja.cekada/" target="_blank"><FacebookIcon/></a>
+            <a href="https://github.com/alchuu00" target="_blank"><GitHubIcon/></a>
+            <a href="https://www.linkedin.com/in/alja-cekada/" target="_blank"><LinkedInIcon/></a>
         </div>
         <p>&copy; 2023 alchuu00</p>
     </div>
