@@ -14,11 +14,11 @@ export const ProjectList = [
     liveLink: "https://gentle-elf-69e434.netlify.app/",
   },
   {
-    name: "Restaurant Page",
+    name: "Tesla Landing Page",
     image: Proj2,
-    skills: "JavaScript | Webpack",
-    ghLink: "https://github.com/alchuu00/restaurant-page",
-    liveLink: "https://alchuu00.github.io/restaurant-page/",
+    skills: "HTML | CSS | JavaScript",
+    ghLink: "https://github.com/alchuu00/tesla-landing-page-clone",
+    liveLink: "https://alchuu00.github.io/tesla-landing-page-clone/",
   },
   {
     name: "Library",
@@ -28,11 +28,11 @@ export const ProjectList = [
     liveLink: "https://alchuu00.github.io/library/",
   },
   {
-    name: "Guess the Number Game",
+    name: "Hyrule Compendium",
     image: Proj4,
-    skills: "Python | Flask | SQLite",
-    ghLink: "https://github.com/alchuu00/GuessTheNumberGame",
-    liveLink: "http://alchuu00.pythonanywhere.com/?retry=",
+    skills: "React | Vite | SCSS",
+    ghLink: "https://github.com/alchuu00/zelda-botw-compendium",
+    liveLink: "https://unique-baklava-e52212.netlify.app/",
   },
   {
     name: "Tic Tac Toe Game",
